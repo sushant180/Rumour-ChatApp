@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526168154419",
+    "project_id": "rumour-chatapp",
+    "storage_bucket": "rumour-chatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526168154419:android:c302ee3a6a7aa59aa75e46",
+        "android_client_info": {
+          "package_name": "app.rumour.rumour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTD9HoNb0y-faFmP0-t1UwJqCTSlh6DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
